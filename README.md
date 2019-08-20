@@ -6,6 +6,17 @@ DSND Pipeline Disaster Response project
  In this project, I analyze disaster data from [Figure Eight](https://www.figure-eight.com/) 
  to build a model for an API that classifies disaster messages.
  
+## Project Description
+
+This project is a part of UDactiy Data Scince nanodegree,
+The Project is divided to three Sections:
+
+- Data Processing, ETL Pipeline: that extract data from source, clean data and save them in a proper databse structure
+
+- ML Pipeline: that train a model able to classify text message into categories
+
+- Web App: that shows the model results in real time.
+ 
 ## 1. ETL Pipeline
 In a Python script, process_data.py, write a data cleaning pipeline that:
 
